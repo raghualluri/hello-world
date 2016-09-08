@@ -3,3 +3,6 @@ This is a big leap forward!!!
 more steps forward
 
 First branch edit
+
+Changing master while changes in branch are in progress!
+
