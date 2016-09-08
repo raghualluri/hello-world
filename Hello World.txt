@@ -6,3 +6,23 @@ First branch edit
 
 Changing master while changes in branch are in progress!
 
+
+Time to wrap up the session
+Things done so far:
+Pull from remote repo
+make changes
+added to index
+commited to local
+pushed to remote
+
+created a new location for branch
+created new branch
+made changes and pushed branch to remote
+
+Made changes to master while branch changes in progress
+merged master with branch for latest version of Hello World
+
+Made further changes to Branch
+Merged with Master
+Pushed Master and Branch
+
